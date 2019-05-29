@@ -1,0 +1,5 @@
+hub NMD_cross_targets
+shortLabel nmd
+longLabel  peaks_of_validated_cross_targets_via_as_nmd
+genomesFile genomes.txt
+email anastasia.danchurova@gmail.com
