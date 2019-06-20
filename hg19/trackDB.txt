@@ -1,5 +1,5 @@
 track nmd_cross_SRSF7
 type bigBed
-bigDataUrl track_500_11.bb
+bigDataUrl track.bb
 shortLabel srsf7
 longLabel srsf7_cross_targets
